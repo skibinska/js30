@@ -68,6 +68,7 @@ body {
   height: 4px;
 }
 
-.min-hand {
-  /*width: 40%;*/
+.hour-hand {
+  width: 100px;
+  left: 50px;
 }
