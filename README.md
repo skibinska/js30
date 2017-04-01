@@ -6,6 +6,6 @@ No Frameworks × No Compilers × No Libraries × No Boilerplate
 
 The tutorials can be found [here](https://javascript30.com/)
 
-See my solution [here]( https://skibinska.github.io/js30/)
+See my solution can be found [here]( https://skibinska.github.io/js30/)
 
 
